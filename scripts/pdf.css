@@ -1,0 +1,8 @@
+@page { size: A4; margin: 20mm 18mm; }
+body { font-family: "Helvetica Neue", Arial, sans-serif; font-size: 10pt; line-height: 1.45; color: #111; max-width: none; margin: 0; padding: 0; }
+h1 { font-size: 17pt; margin: 0 0 12pt; }
+h2 { font-size: 12pt; margin: 14pt 0 5pt; break-after: avoid; }
+p, li { margin: 0 0 5pt; orphans: 3; widows: 3; }
+a { color: inherit; }
+hr { border: 0; border-top: 0.5pt solid #999; margin: 16pt 0 8pt; }
+hr ~ p { font-size: 8.5pt; color: #444; margin: 0 0 2pt; }
